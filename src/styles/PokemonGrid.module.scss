@@ -1,0 +1,23 @@
+.pokemonGrid {
+    text-align: center;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #f8f8f8;
+}
+
+.pokemonGrid img {
+    width: 150px;
+    height: auto;
+    margin: 10px 0;
+}
+
+.pokemonGrid h3 {
+    font-size: 20px;
+    color: #4a90e2;
+}
+
+.pokemonGrid p {
+    font-size: 16px;
+    color: #333;
+}
